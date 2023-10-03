@@ -1,3 +1,0 @@
-[submodule "rust-ci-conf"]
-	path = rust-ci-conf
-	url = https://github.com/jonhoo/rust-ci-conf
